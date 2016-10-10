@@ -1,0 +1,2 @@
+lerna(info)    Lerna v2.0.0-beta.29
+lerna(warning) You ran lerna with `--independent` or `-i`, but the repository is not set to independent mode. To use independent mode you need to set your `lerna.json` "version" to "independent". Then you won't need to pass the `--independent` or `-i` flags.
